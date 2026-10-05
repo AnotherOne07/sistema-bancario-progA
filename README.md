@@ -59,6 +59,7 @@ sistema-bancario-progA/
 ### 0. Pré-requisitos
 - Ter o python instalado em sua máquina. Caso não tenha acesse o tutorial abaixo:
 - https://python.org.br/instalacao-windows/
+- https://python.org.br/instalacao-linux/
 - Após realizar a instalação, você pode verificar se ocorreu tudo certo rodando o comando: 
 - **Windows**
 ```powershell
